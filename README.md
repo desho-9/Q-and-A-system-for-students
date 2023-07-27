@@ -1,1 +1,1 @@
-# Q-and-A-system-for-students
+# Q and A system for students
